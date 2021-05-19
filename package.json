@@ -1,0 +1,25 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "KubackiYT_Bot_Clock",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "dev:watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KubackiYT/Bot-KubackiYT.git"
+  },
+  "author": "KubackiYT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KubackiYT/Bot-KubackiYT/issues"
+  },
+  "homepage": "https://github.com/KubackiYT/Bot-KubackiYT#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "nodemon": "^2.0.1"
+  }
+}
